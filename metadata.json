@@ -1,0 +1,6 @@
+{
+  "name": "Cooking Planner & Budget Feasibility",
+  "description": "A beautiful full-stack app to produce breakfast, lunch, and dinner plans with a smart grocery list, meal substitutions, and interactive budget feasibility tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
